@@ -1,0 +1,35 @@
+<html>
+<head>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="/home/amit/Desktop/hackathon-site/css/bootstrap.min.css">
+<!-- Optional theme -->
+<link rel="stylesheet" href="/home/amit/Desktop/hackathon-site/css/bootstrap-theme.min.css">
+<!-- Latest compiled and minified JavaScript -->
+<script src="/home/amit/Desktop/hackathon-site/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="container-fluid">
+		<div class = "col-md-9" > <!--Outer -->
+
+			<div class = "row" >   <!--Inner1 -->
+
+				<div class = "row" >
+
+			
+				</div>
+
+			
+			</div>
+
+
+			<div class = "row">
+			</div>
+
+		</div>
+
+
+		<div class = "col-md-3" >
+		</div>
+	</div>
+</body>
+</html>
